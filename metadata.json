@@ -1,0 +1,7 @@
+{
+  "name": "Dynasty 8 Luxury Real Estate",
+  "description": "Une plateforme immobilière de prestige offrant des propriétés exclusives avec une expérience utilisateur haut de gamme, propulsée par l'intelligence artificielle pour des conseils personnalisés.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
